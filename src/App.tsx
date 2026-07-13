@@ -1,7 +1,6 @@
 import { Footer } from './components/layout/Footer'
 import { Navbar } from './components/layout/Navbar'
 import { AboutSection } from './components/sections/AboutSection'
-import { AchievementsSection } from './components/sections/AchievementsSection'
 import { AdmissionProcessSection } from './components/sections/AdmissionProcessSection'
 import { ContactSection } from './components/sections/ContactSection'
 import { EnquiryForm } from './components/sections/EnquiryForm'
@@ -19,7 +18,6 @@ export default function App() {
       <Navbar />
       <main>
         <HeroSection />
-        <AchievementsSection />
         <AboutSection />
         <WhyChooseUsSection />
         <ProgramsSection />
