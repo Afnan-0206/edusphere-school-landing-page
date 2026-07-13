@@ -4,7 +4,7 @@ import { SectionHeader } from '../ui/SectionHeader'
 const contactDetails = [
   { icon: MapPin, title: 'Visit us', text: 'Whitefield, Bengaluru, Karnataka', href: 'https://maps.app.goo.gl/SRASrUXLmWkJYKNB9' },
   { icon: Phone, title: 'Call us', text: '+91 96116 04319', href: 'tel:+919611604319' },
-  { icon: Mail, title: 'Email us', text: 'info@edusphere.school', href: 'mailto:info@edusphere.school' },
+  { icon: Mail, title: 'Email us', text: 'info@edusphere.school@gmail.com', href: 'mailto:info@edusphere.school@gmail.com' },
   { icon: Clock3, title: 'Office hours', text: 'Monday to Saturday, 9:00 AM - 5:00 PM' },
 ]
 
